@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Repository\\BooksDemo.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Data\\BooksDemo.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Data\\BooksDemo.Data.csproj",
+        "projectName": "BooksDemo.Data",
+        "projectPath": "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Data\\BooksDemo.Data.csproj",
+        "packagesPath": "C:\\Users\\skandhasamy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\skandhasamy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Models\\BooksDemo.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Models\\BooksDemo.Models.csproj",
+        "projectName": "BooksDemo.Models",
+        "projectPath": "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Models\\BooksDemo.Models.csproj",
+        "packagesPath": "C:\\Users\\skandhasamy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\skandhasamy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Data\\BooksDemo.Data.csproj": {
+                "projectPath": "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Data\\BooksDemo.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Repository\\BooksDemo.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Repository\\BooksDemo.Repository.csproj",
+        "projectName": "BooksDemo.Repository",
+        "projectPath": "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Repository\\BooksDemo.Repository.csproj",
+        "packagesPath": "C:\\Users\\skandhasamy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\skandhasamy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Data\\BooksDemo.Data.csproj": {
+                "projectPath": "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Data\\BooksDemo.Data.csproj"
+              },
+              "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Models\\BooksDemo.Models.csproj": {
+                "projectPath": "C:\\Users\\skandhasamy\\Documents\\Suganya\\BooksDemo\\Demo\\BooksDemo\\BooksDemo.Models\\BooksDemo.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

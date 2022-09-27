@@ -1,0 +1,17 @@
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\bin\Release\net6.0\BooksDemo.Repository.deps.json
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\bin\Release\net6.0\BooksDemo.Repository.dll
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\bin\Release\net6.0\BooksDemo.Repository.pdb
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\bin\Release\net6.0\BooksDemo.Data.dll
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\bin\Release\net6.0\BooksDemo.Models.dll
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\bin\Release\net6.0\BooksDemo.Data.pdb
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\bin\Release\net6.0\BooksDemo.Models.pdb
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\obj\Release\net6.0\BooksDemo.Repository.csproj.AssemblyReference.cache
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\obj\Release\net6.0\BooksDemo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\obj\Release\net6.0\BooksDemo.Repository.AssemblyInfoInputs.cache
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\obj\Release\net6.0\BooksDemo.Repository.AssemblyInfo.cs
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\obj\Release\net6.0\BooksDemo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\obj\Release\net6.0\BooksDemo.Repository.csproj.CopyComplete
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\obj\Release\net6.0\BooksDemo.Repository.dll
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\obj\Release\net6.0\refint\BooksDemo.Repository.dll
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\obj\Release\net6.0\BooksDemo.Repository.pdb
+C:\Users\skandhasamy\Documents\Suganya\BooksDemo\Demo\BooksDemo\BooksDemo.Repository\obj\Release\net6.0\ref\BooksDemo.Repository.dll
