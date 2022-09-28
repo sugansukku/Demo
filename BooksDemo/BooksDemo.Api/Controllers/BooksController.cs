@@ -36,7 +36,7 @@ namespace BooksDemo.Api.Controllers
             catch (Exception ex)
             {
                 _logger.Error($"Exception occured { ex }");
-                return BadRequest("Could not fetch Books detail");
+                return StatusCode(500, "Could not fetch Books detail");
             }
         }
 
@@ -62,7 +62,7 @@ namespace BooksDemo.Api.Controllers
             catch (Exception ex)
             {
                 _logger.Error($"Exception occured {ex}");
-                return BadRequest("Could not fetch Book by its Id");
+                return StatusCode(500, "Could not fetch Book by its Id");
             }
         }
 
@@ -70,6 +70,7 @@ namespace BooksDemo.Api.Controllers
         /// Creates a new book.
         /// </summary>
         /// <param name="book">Book details</param>
+        
         [HttpPost]
         [Route("CreateBook")]
         public IActionResult CreateBook(BookRequest book)
@@ -83,12 +84,11 @@ namespace BooksDemo.Api.Controllers
                 _logger.Information("Creating book");
                 _booksService.CreateBook(book);
                 return Ok("Book created successfully");
-                // return CreatedAtAction(nameof(GetById), new { id = employee.Id }, employee);
             }
             catch (Exception ex)
             {
                 _logger.Error($"Exception occured {ex}");
-                return BadRequest("Error while creating a book");
+                return StatusCode(500, "Error while creating a book");
             }
 
         }
@@ -120,7 +120,7 @@ namespace BooksDemo.Api.Controllers
             catch (Exception ex)
             {
                 _logger.Error($"Exception occured {ex}");
-                return BadRequest("Error while updating book details");
+                return StatusCode(500, "Error while updating book details");
             }
 
         }

@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksDemo.Api", "BooksDemo.Api\BooksDemo.Api.csproj", "{D50F1440-5CCC-49B5-B536-AA77C8B56C2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooksDemo.Api", "BooksDemo.Api\BooksDemo.Api.csproj", "{D50F1440-5CCC-49B5-B536-AA77C8B56C2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksDemo.Data", "BooksDemo.Data\BooksDemo.Data.csproj", "{1ADD6E74-D325-4E53-881A-32BC3567BB53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooksDemo.Data", "BooksDemo.Data\BooksDemo.Data.csproj", "{1ADD6E74-D325-4E53-881A-32BC3567BB53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksDemo.Repository", "BooksDemo.Repository\BooksDemo.Repository.csproj", "{51B09222-D6F1-4F25-9372-3A3970B98DF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooksDemo.Repository", "BooksDemo.Repository\BooksDemo.Repository.csproj", "{51B09222-D6F1-4F25-9372-3A3970B98DF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksDemo.Models", "BooksDemo.Models\BooksDemo.Models.csproj", "{732B6478-7708-4947-B04B-D182ABD7A4D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooksDemo.Models", "BooksDemo.Models\BooksDemo.Models.csproj", "{732B6478-7708-4947-B04B-D182ABD7A4D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksDemo.Logging", "BooksDemo.Logging\BooksDemo.Logging.csproj", "{92967940-C56B-4716-B008-A7BB4ADFBF84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooksDemo.Logging", "BooksDemo.Logging\BooksDemo.Logging.csproj", "{92967940-C56B-4716-B008-A7BB4ADFBF84}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BooksDemo.Database", "BooksDemo.Database\BooksDemo.Database.sqlproj", "{837C51CF-A37F-468B-8C0C-177D14FEBD8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksDemo.Service", "BooksDemo.Service\BooksDemo.Service.csproj", "{A37C8368-6991-4DF2-93BC-826F2CBC1309}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooksDemo.Service", "BooksDemo.Service\BooksDemo.Service.csproj", "{A37C8368-6991-4DF2-93BC-826F2CBC1309}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksDemo.Api.Test", "BooksDemo.Api.Test\BooksDemo.Api.Test.csproj", "{5C9C4E4B-1AD9-4064-8A17-331F372E11A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +55,10 @@ Global
 		{A37C8368-6991-4DF2-93BC-826F2CBC1309}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A37C8368-6991-4DF2-93BC-826F2CBC1309}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A37C8368-6991-4DF2-93BC-826F2CBC1309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C9C4E4B-1AD9-4064-8A17-331F372E11A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9C4E4B-1AD9-4064-8A17-331F372E11A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9C4E4B-1AD9-4064-8A17-331F372E11A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9C4E4B-1AD9-4064-8A17-331F372E11A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
