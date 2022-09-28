@@ -7,7 +7,7 @@ To run the project:
 Clone the project : https://github.com/sugansukku/Demo.git
 <br />Open the code in Visual studio 2022
 <br />Change the Database connection string in appsettings.json file
-<br />Create the table named Books in your database. Script can be found in BooksDemo.Api.Database
+<br />Create the table named Books in your database. Script can be found in BooksDemo.Api.Database. Or publish the BooksDemo.Api.Database.
 <br />Build and run the solution
 
 
